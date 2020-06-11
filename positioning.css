@@ -1,0 +1,24 @@
+.fixed {
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    top: 0;
+    left: 0;
+    background: #333333;
+}
+.relative {
+    position: relative;
+    margin: auto;
+    width: 500px;
+    height: 250px;
+    background: #eeeeee;
+}
+
+.absolute {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    bottom: 0;
+    right: -10px;
+    background: #999999;
+}
