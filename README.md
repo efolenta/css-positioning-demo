@@ -1,2 +1,1 @@
-# efolenta.github.io
-Portfolio of Eric Folenta
+# css-positioning-demo
